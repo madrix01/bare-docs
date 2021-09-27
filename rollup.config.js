@@ -7,6 +7,7 @@ import css from 'rollup-plugin-css-only';
 import json from '@rollup/plugin-json'
 import {string} from 'rollup-plugin-string'
 import copy from 'rollup-plugin-copy'
+import styles from 'rollup-plugin-styles'
 
 const production = !process.env.ROLLUP_WATCH;
 
@@ -81,7 +82,8 @@ export default {
 			targets: [
 				{src: 'public/index.html', dest: 'public', rename: '200.html'}
 			]
-		})
+		}),
+		styles(),
 	],
 	watch: {
 		clearScreen: false
