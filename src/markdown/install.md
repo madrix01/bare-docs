@@ -10,3 +10,14 @@
     ```
     bare
     ```
+
+### To install nighly build
+
+```
+npm i -g madrix01/bare#dev
+```
+- Revert it back using the installing 
+
+    ```
+    npm i -g barego
+    ```

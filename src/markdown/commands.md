@@ -33,3 +33,17 @@
     bare use <bare-name> <destination>
     ```
     Create barebones of the project from a current bare
+
+## include
+- Usage:
+    ```
+    bare include [<all the files you want to include>] 
+    ```
+    You can use this command or add manually to `recipe.json`
+
+## touch
+- Usage:
+    ```
+    bare touch <touch-name> <destination>
+    ```
+    You can use this command to generate a copy of single boilerplate file from your Bare to project

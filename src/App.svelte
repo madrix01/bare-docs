@@ -4,9 +4,11 @@
 
 <main>
     <h1>Bare Cli</h1>
-    <p class="subtitle">Manage all your boilerplate and generate boilerplate files from your commandline</p>
     <a href="https://github.com/madrix01/Bare" target="_blank"><img src="https://img.shields.io/badge/Github-%20madrix01%2FBare-blue" alt="GitHub"></a>
-    <!-- <Link to="install">install</Link> -->
+    <a href="https://www.npmjs.com/package/barego" target="_blank"><img src="https://img.shields.io/npm/dt/barego" alt="npm"></a>
+    <a href="https://github.com/madrix01/Bare" target="_blank"><img src="https://img.shields.io/github/stars/madrix01/Bare?style=social" alt="GitHub"></a>
+    <p class="subtitle">Manage all your boilerplate and generate boilerplate files from your commandline</p>
+
     <div class="nav">
         <a href="/">Home</a>
         <a href="/install">Install</a>
