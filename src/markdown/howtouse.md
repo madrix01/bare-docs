@@ -28,4 +28,5 @@ Suppose you have made barebones for express app and want to use it later project
     This will create a file with `~/.bare/test`
     And a file with `recipe.json` in root of the project.
 
-## Recipe.json
+### Let's configure recipe.json 
+To learn more about the recipe, click [here](/recipe)
