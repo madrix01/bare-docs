@@ -32,18 +32,25 @@
     ```
     bare use <bare-name> <destination>
     ```
-    Create barebones of the project from a current bare
+    Create boilerplate of the project from a current bare
 
 ## include
 - Usage:
     ```
     bare include [<all the files you want to include>] 
     ```
-    You can use this command or add manually to `recipe.json`
+    This command to add `recipe.json` or add manually to `recipe.json` (we dont recommend to add manually)
 
 ## touch
 - Usage:
     ```
     bare touch <touch-name> <destination>
     ```
-    You can use this command to generate a copy of single boilerplate file from your Bare to project
+    This command generates a copy of single boilerplate file from your Bare to project
+
+## rm
+- Usage: 
+    ```
+    bare rm <bare-name>
+    ```
+    This command removes saved bare from `~/.bare`

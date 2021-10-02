@@ -1,0 +1,11 @@
+{
+    "BareName": "baredocs",
+    "Version": "",
+    "Include": [
+        "recipe.json"
+    ],
+    "BarePath": "/home/madrix/.bare/baredocs",
+    "Touch": {
+		"route" : "./src/Home.svelte"
+	}
+}
