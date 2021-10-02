@@ -4,11 +4,12 @@
 
 <main>
     <h1>Bare Cli</h1>
-    <a href="https://github.com/madrix01/Bare" target="_blank"><img src="https://img.shields.io/badge/Github-%20madrix01%2FBare-blue" alt="GitHub"></a>
-    <a href="https://www.npmjs.com/package/barego" target="_blank"><img src="https://img.shields.io/npm/dt/barego" alt="npm"></a>
-    <a href="https://github.com/madrix01/Bare" target="_blank"><img src="https://img.shields.io/github/stars/madrix01/Bare?style=social" alt="GitHub"></a>
+    <a href="https://github.com/bare-cli/Bare" target="_blank"><img src="https://img.shields.io/badge/bare--cli-bare-blue?style=flat-square&logo=github" alt="GitHub"></a>
+    <a href="https://www.npmjs.com/package/barego" target="_blank"><img src="https://img.shields.io/npm/dt/barego?style=flat-square&logo=npm" alt="npm"></a>
+    <a href="https://github.com/bare-cli/Bare" target="_blank"><img src="https://img.shields.io/github/stars/bare-cli/Bare?logo=github&style=flat-square" alt="GitHub"></a>
+    <a href="https://www.npmjs.com/package/barego" target="_blank"><img src="https://img.shields.io/npm/v/barego?style=flat-square&logo=npm" alt="npm version"></a>
     <p class="subtitle">Manage all your boilerplate and generate boilerplate files from your commandline</p>
-
+    <p class="comments">Please write your review <a href="https://github.com/madrix01/bare/issues/new" target="_blank"><u>Here</u></a></p>
     <div class="nav">
         <a href="/">Home</a>
         <a href="/install">Install</a>
@@ -39,7 +40,10 @@
         font-size: large;
     }
     
-    
+    .comments {
+        font-size: 25px;
+        color: blue;
+    }
     :global(body) {
         background-color: rgb(30, 35, 51);
         color: white;
