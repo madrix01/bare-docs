@@ -9,7 +9,7 @@
     <a href="https://github.com/bare-cli/Bare" target="_blank"><img src="https://img.shields.io/github/stars/bare-cli/Bare?logo=github&style=flat-square" alt="GitHub"></a>
     <a href="https://www.npmjs.com/package/barego" target="_blank"><img src="https://img.shields.io/npm/v/barego?style=flat-square&logo=npm" alt="npm version"></a>
     <p class="subtitle">Manage all your boilerplate and generate boilerplate files from your commandline</p>
-    <p class="comments">Please write your review <a href="https://github.com/madrix01/bare/issues/new" target="_blank"><u>Here</u></a></p>
+    <p class="comments">Please write your review <a href="https://github.com/bare-cli/bare/issues/new" target="_blank"><u>Here</u></a></p>
     <div class="nav">
         <a href="/">Home</a>
         <a href="/install">Install</a>
