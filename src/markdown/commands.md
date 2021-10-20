@@ -35,11 +35,20 @@
 
 - Usage:
 
-  ```
-  bare use <bare-name> <destination>
-  ```
+<<<<<<< HEAD
 
-  Create boilerplate of the project from a current bare
+```
+bare use <bare-name> <destination>
+```
+
+# Create boilerplate of the project from a current bare
+
+    ```
+    bare use <bare-name> <destination>
+    ```
+    Create boilerplate of the project from a current bare
+
+> > > > > > > upstream/main
 
 ## include
 
@@ -68,7 +77,19 @@
 ## get
 
 - Usage:
+  <<<<<<< HEAD
   ```sh
   bare get <username>/<template-repo>
   ```
-  This command download any online template from github to `~/.bare` for future use
+  # This command download any online template from github to `~/.bare` for future use
+      ```
+      bare touch <touch-name> <destination>
+      ```
+      This command generates a copy of single boilerplate file from your Bare to project
+
+## rm
+
+- Usage:
+  ` bare rm <bare-name> `
+  This command removes saved bare from `~/.bare`
+  > > > > > > > upstream/main
